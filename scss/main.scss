@@ -306,8 +306,10 @@ img {
   }
 
   &-b {
-    h4 {
+    .container {
+        h4 {
       text-align: center;
+    }
     }
     .contact-info {
       display: grid;
