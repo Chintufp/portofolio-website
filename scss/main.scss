@@ -306,6 +306,9 @@ img {
   }
 
   &-b {
+    h4 {
+      text-align: center;
+    }
     .contact-info {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
